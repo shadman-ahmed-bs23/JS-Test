@@ -1,4 +1,4 @@
-## JS Test
+### JS Test
 
-Simple JS test with jest ( includes coverage )
+Simple JavaScript test with jest ( includes coverage )
 
